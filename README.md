@@ -1,4 +1,18 @@
-### Hi there 👋
+# I’m N.Yuto
+🌱 I’m currently learning JavaScript.<br><br>
+📝 I currently belong to MorikenJuku.
+
+## ⭐Status
+
+<!-- リポジトリステータス -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ja0112hk&hide=contribs&count_private=true&show_icons=true&theme=solarized-light" />
+</a>
+
+<!-- ソースコード統計 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja0112hk&layout=compact&theme=solarized-light" />
+</a>
 
 <!--
 **ja0112hk/ja0112hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
